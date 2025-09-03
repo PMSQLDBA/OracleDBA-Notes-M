@@ -3,19 +3,13 @@ https://drive.google.com/drive/folders/183dcnQtLtEp8mS3MX3VvCyiKjrpNGicT?usp=sha
 - DBA Course Material >>> Database-Course.pptx
 - Ready_VMs_Standalone
 
-DBA-Batch-13-Apr-2023 - Recording
-https://drive.google.com/drive/folders/1-BrDmaKM-tnodyA_Tb3CeLbN3rGM34l7?usp=sharing
+DBA-Batch-13-Apr-2023 - Recording --> https://drive.google.com/drive/folders/1-BrDmaKM-tnodyA_Tb3CeLbN3rGM34l7?usp=sharing
 
-Other-Information:
-https://drive.google.com/drive/folders/1mh5j3hBMad0cCpV7mhph2mmyAGYfwx3U?usp=sharing
-
-
+Other-Information --> https://drive.google.com/drive/folders/1mh5j3hBMad0cCpV7mhph2mmyAGYfwx3U?usp=sharing
 
 zoom link: 
 Meeting ID: 
 Passcode: 
-
-
 
 Weekdays Batch: Monday to Friday
 Course is Start Date: 17-Apr-2023 (Monday)
@@ -25,20 +19,14 @@ Database Course fees 10K INR (125 USD)
 Mode: Online Live Classes
 Oracle: 19c Version
 
-
-
 Types of Database:
 ==================
 1. Standalone / Single node / Single Instance: 	- Without ASM 
 2. Oralce Rstart:				- With ASM 
-
 3. Oracle RAC		- RAC 
 4. Oracle RAC onenode 	- RAC 
 
 Standalone Vs RAC:
-
-
-
 
 1. Standalone without ASM: oraclelab1
 2. Standalone with ASM:    oraclelab2
@@ -68,7 +56,7 @@ Option 2:
 	- Use Ready VM from - Database-Course-Material >>> Ready_VMs_Standalone
 	- oraclelab1.rar 
 
-root / Pasword: Mallik@123
+root / Pasword: 
 
 My laptop IP address: 192.168.1.7 (Praveeen: 192.168.1.110)
 My laptop DNS IP address: 192.168.1.1
@@ -80,7 +68,6 @@ oraclelab1.localdomain.com
 192.168.1.101	oraclelab1.localdomain.com	oraclelab1
 
 Static & DHCP - IP
-
 
 2. Instalaltion of Database Software / Oracle Software / Oracle Home
 	a. Download DB software (19c) - https://edelivery.oracle.com (Oracle Database 19c 19.3.0.0.0)	
@@ -130,7 +117,6 @@ Adding read,write permissions for group.
 Removing read,write,execute permissions for world.
 #***************************************************************
 /u01/app/oracle/product/19.0.0.0/dbhome_1/root.sh
-
 output: 
 
 [root@oraclelab1 dbhome_1]# /u01/app/oracle/product/19.0.0.0/dbhome_1/root.sh
@@ -141,7 +127,6 @@ The following environment variables are set as:
     ORACLE_HOME=  /u01/app/oracle/product/19.0.0.0/dbhome_1
 
 Enter the full pathname of the local bin directory: [/usr/local/bin]:
-
 #***************************************************************
 
 3. Creation of Database (DEVDB)
@@ -175,9 +160,6 @@ Enter the full pathname of the local bin directory: [/usr/local/bin]:
 
 
 oraclelab1_with_DB.rar -  Oracle Server with DB installed in it
-
-
-
 
 login as: root
 root@192.168.1.101's password:
@@ -375,7 +357,6 @@ drwxr-x---  7 oracle oinstall    69 Apr 17  2019 xdk
 Network error: Software caused connection abort
 
 ─────────────────────────────────────────────────────────────────────────────────────────────────
-
 Session stopped
     - Press <return> to exit tab
     - Press R to restart session
@@ -436,8 +417,6 @@ Note :
 
 [root@oraclelab1 ~]# cat /etc/oratab
 #
-
-
 
 # This file is used by ORACLE utilities.  It is created by root.sh
 # and updated by either Database Configuration Assistant while creating
@@ -511,7 +490,6 @@ css          diagnostics  instantclient  md         oracore  plsql        root.s
 root     10214  4105  0 10:56 pts/1    00:00:00 grep --color=auto smon
 [root@oraclelab1 dbhome_1]# cat /etc/oratab
 #
-
 
 
 # This file is used by ORACLE utilities.  It is created by root.sh
@@ -592,8 +570,6 @@ All rights reserved. -->
 </INVENTORY>
 [root@oraclelab1 ContentsXML]# cat /etc/oratab
 #
-
-
 
 # This file is used by ORACLE utilities.  It is created by root.sh
 # and updated by either Database Configuration Assistant while creating
@@ -792,8 +768,6 @@ Last login: Mon Apr 17 11:19:33 2023
 [root@oraclelab1 ~]# cat /etc/oratab
 #
 
-
-
 # This file is used by ORACLE utilities.  It is created by root.sh
 # and updated by either Database Configuration Assistant while creating
 # a database or ASM Configuration Assistant while creating ASM instance.
@@ -836,14 +810,9 @@ Version 19.3.0.0.0
 
 Copyright (c) 1982, 2019, Oracle.  All rights reserved.
 
-
 Connected to:
 Oracle Database 19c Enterprise Edition Release 19.0.0.0.0 - Production
 Version 19.3.0.0.0
 
 SQL>
-
-
-
-
 
