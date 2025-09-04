@@ -1,7 +1,7 @@
 Database-Course-Material:
 https://drive.google.com/drive/folders/183dcnQtLtEp8mS3MX3VvCyiKjrpNGicT?usp=sharing
 - DBA Course Material >>> Database-Course.pptx
-- Ready_VMs_Standalone
+- Ready_VMs_Standalone --> https://drive.google.com/drive/folders/1T5z2Uvsoaj6DkR-e1pG_gLsoHBr31LdJ
 
 DBA-Batch-13-Apr-2023 - Recording --> https://drive.google.com/drive/folders/1-BrDmaKM-tnodyA_Tb3CeLbN3rGM34l7?usp=sharing
 
@@ -815,4 +815,5 @@ Oracle Database 19c Enterprise Edition Release 19.0.0.0.0 - Production
 Version 19.3.0.0.0
 
 SQL>
+
 
